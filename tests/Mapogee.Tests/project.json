@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "description": "Mapogee Class Library",
+  "authors": [ "" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net451": { }
+  },
+  "dependencies": {
+    "Mapogee":"*",
+    "NUnit":"*"
+  }
+}
